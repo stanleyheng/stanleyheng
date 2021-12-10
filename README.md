@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋 👋 Thanks for dropping by to my Github
+
+I am currently a learner for Cloud Support & Devops and have just started my git repo journey. 
+
+
+
 
 <!--
 **stanleyheng/stanleyheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
